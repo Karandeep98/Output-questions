@@ -18,6 +18,5 @@ int main()
     cout<< p << " " << q << " " << r<<" "<< x << " " << y << " " << z<<endl;
     z = ++q + p++;
     cout<< p << " " << q << " " << r<<" "<< x << " " << y << " " << z<<endl;
-   // cout<< p << " " << q << " " << z;
     return 0;
 }
